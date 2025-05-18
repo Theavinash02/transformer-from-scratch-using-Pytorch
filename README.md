@@ -1,4 +1,7 @@
 # transformer-from-scratch-notes
-Notes about "Attention is all you need" video (https://www.youtube.com/watch?v=bCz4OMemCcA)
+I am trying to build a transformer based on this video and notes.
+I will soon update the repo of my code.
 
-License: Creative Commons Attribution-NonCommercial 4.0 International (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+video link (https://www.youtube.com/watch?v=bCz4OMemCcA)
+
+
